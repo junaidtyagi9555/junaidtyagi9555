@@ -43,7 +43,18 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ### **📈 Activity Graph**
 [![Junaid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junaidtyagi9555&custom_title=Junaid's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff)](https://github.com/junaidtyagi9555)
 
-## 🛠️ Technical Stack
+## 🛠️ DevOps Technical Stack
+
+<div align="center">
+
+### **Cloud Platforms**
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ec268856-94e1-4547-9c83-604b2d5f094c" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4f5bb8ab-888c-46dc-a409-8002e79452a6" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cc7aa5b8-4fa9-44f0-af4c-63ea4ce58dbb" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7e9bdbab-2814-47ae-8c4c-265685213df0" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/391d188f-7d5a-4743-8fac-cefcb1837a78" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9e0a4540-fbb3-4af1-8171-e753e1e28e99" />
+
 
 ### ☁️ Cloud & Infrastructure as Code
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -115,6 +126,7 @@ I'm actively seeking an entry-level role where I can apply my infrastructure bac
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 [![Let's Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
+[![Schedule Chat](https://img.shields.io/badge/Schedule_a_Chat-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&width=200)](https://cal.com/junaidtyagi)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidtyagi9555@gmail.com)
 
 </div>
