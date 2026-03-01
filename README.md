@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Infrastructure+as+Code+%7C+CI%2FCD+Pipelines;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;From+IT+Infra+to+Cloud+DevOps;Always+building%2C+always+learning" alt="Typing SVG" />
 
-### DevOps & Cloud Engineer (Transitioning from IT Infrastructure)
+### DevOps & Cloud Engineer with Infrastructure Background
 
 🔹 **4+ Years** in IT Infrastructure & System Administration  
 🔹 **Hands-on** with Docker, Terraform, Kubernetes & CI/CD
