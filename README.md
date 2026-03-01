@@ -90,10 +90,26 @@ Here are the projects I'm building to demonstrate my DevOps and AWS skills. Each
 
 | Project | Description | Tech Stack | Repo |
 | :--- | :--- | :--- | :--- |
-| **🌐 Scalable AWS 3-Tier App** | Deployed a highly available 3-tier architecture using Terraform. It includes a custom VPC, public/private subnets, NAT Gateways, an Application Load Balancer, Auto Scaling Groups for EC2, and an RDS MySQL database. | `AWS` `Terraform` `Linux` `Bash` | [Link to Repo] |
-| **🚀 CI/CD Pipeline with Jenkins** | Built an end-to-end CI/CD pipeline for a containerized Node.js app. Jenkins on EC2 automates the process: pulling code from GitHub, building a Docker image, scanning it for vulnerabilities (Trivy), and deploying it to a test environment. | `Jenkins` `Docker` `GitHub` `Trivy` | [Link to Repo] |
-| **☸️ Kubernetes Guestbook App** | Deployed the classic "Guestbook" application on a local `minikube` cluster (and soon on AWS EKS). This project uses Redis (master/slave) and a PHP frontend, demonstrating multi-container pods, services, and persistent volumes. | `Kubernetes` `Docker` `kubectl` `Helm` | [Link to Repo] |
-| **📊 Infrastructure Monitoring Stack** | Set up a complete monitoring solution for a sample application. Prometheus scrapes metrics, Grafana visualizes them with custom dashboards, and AlertManager sends notifications for critical events (e.g., high CPU). | `Prometheus` `Grafana` `AlertManager` `Docker` | [Link to Repo] |
+| ## 📌 Featured DevOps Projects
+
+Here are hands-on DevOps projects demonstrating CI/CD automation, Infrastructure as Code, container orchestration, and AWS deployment.
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| 🚀 **Node.js CI/CD Pipeline** | Built an end-to-end CI/CD pipeline using Jenkins. Automated Docker image build, safe container redeployment, and production-style deployment on AWS EC2. | `Jenkins` `Docker` `AWS EC2` `Linux` `Git` | [View Project](https://github.com/junaidtyagi9555/Jenkins-repo) |
+| 🐳 **Two-Tier Flask Application** | Designed a multi-container architecture using Docker Compose. Implemented internal networking between Flask app and MySQL database. | `Docker` `Docker Compose` `Flask` `MySQL` | [View Project](https://github.com/junaidtyagi9555/Docker-Projects)   |
+| ☸️ **Kubernetes Application Deployment** | Deployed a containerized application on Kubernetes cluster (Kubeadm/minikube/AWS). Configured Deployments, Services, ConfigMaps, and Ingress for scalable application management. | `Kubernetes` `Docker` `kubectl` `YAML` | [View Project](https://github.com/junaidtyagi9555/Kubernetes-repo) |
+| 🏗 **AWS Infrastructure using Terraform** | Provisioned AWS infrastructure using Terraform. Created VPC, subnets, EC2, security groups, and remote backend (S3 + DynamoDB) with modular configuration. | `Terraform` `AWS` `VPC` `EC2` `S3` `IAM` | [View Project](https://github.com/junaidtyagi9555/Terraform-repo) |
+
+---
+
+### 🔎 DevOps Capabilities Demonstrated
+- CI/CD Pipeline Automation  
+- Infrastructure as Code (IaC)  
+- Kubernetes Orchestration  
+- Docker Containerization  
+- AWS Cloud Deployment  
+- Production-safe Redeployment Strategy
 
 *(Note: These are the exact projects from the roadmap. Link them as you build them!)*
 
