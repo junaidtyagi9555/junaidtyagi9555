@@ -48,32 +48,47 @@ I'm not just learning concepts; I'm applying them by building real-world project
 <div align="center">
 
 ### **Cloud Platforms**
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ec268856-94e1-4547-9c83-604b2d5f094c" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4f5bb8ab-888c-46dc-a409-8002e79452a6" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cc7aa5b8-4fa9-44f0-af4c-63ea4ce58dbb" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7e9bdbab-2814-47ae-8c4c-265685213df0" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/391d188f-7d5a-4743-8fac-cefcb1837a78" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9e0a4540-fbb3-4af1-8171-e753e1e28e99" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ec268856-94e1-4547-9c83-604b2d5f094c" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4f5bb8ab-888c-46dc-a409-8002e79452a6" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/cc7aa5b8-4fa9-44f0-af4c-63ea4ce58dbb" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7e9bdbab-2814-47ae-8c4c-265685213df0" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/391d188f-7d5a-4743-8fac-cefcb1837a78" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9e0a4540-fbb3-4af1-8171-e753e1e28e99" />
 
 
-### ☁️ Cloud & Infrastructure as Code
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-**Hands-on:** EC2, VPC, IAM, S3, RDS, ALB, Auto Scaling  
-**Learning (for SAA-C03):** Lambda, CloudFront, Route 53, CloudWatch  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-**Hands-on:** Modules, remote state (S3/DynamoDB), variables, basic environment separation
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-**Hands-on:** Dockerfiles, multi-stage builds, image optimization, `docker-compose`  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-**Hands-on:** Pods, Deployments, Services, ConfigMaps, Secrets, Ingress
-
-### 🔁 CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-**Hands-on:** Pipeline as Code (Declarative), integrating builds and tests  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-**Hands-on:** Basic CI workflows for testing and building
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+**Node.js CI/CD Pipeline**  
+Built an end-to-end CI/CD pipeline using Jenkins. Automated Docker image build, safe container redeployment, and production-style deployment on AWS EC2.  
+[View Project](https://github.com/junaidtyagi9555/Jenkins-repo)
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+**Two-Tier Flask Application**  
+Designed a multi-container architecture using Docker Compose. Implemented internal networking between Flask app and MySQL database.  
+[View Project](https://github.com/junaidtyagi9555/Docker-Projects)
+
+<br>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![kubectl](https://img.shields.io/badge/kubectl-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+**Kubernetes Application Deployment**  
+Deployed a containerized application on Kubernetes cluster (Kubeadm/minikube/AWS). Configured Deployments, Services, ConfigMaps, and Ingress for scalable application management.  
+[View Project](https://github.com/junaidtyagi9555/Kubernetes-repo)
+
+<br>
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+**AWS Infrastructure using Terraform**  
+Provisioned AWS infrastructure using Terraform. Created VPC, subnets, EC2, security groups, and remote backend (S3 + DynamoDB) with modular configuration.  
+[View Project](https://github.com/junaidtyagi9555/Terraform-repo)
 
 ### 💻 Scripting & OS
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -81,26 +96,6 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 **Basic scripting for automation tasks**  
 **Linux (Ubuntu, CentOS) | Windows Server**
-
----
-
-## 📌 Featured Projects (Building My Cloud Portfolio)
-
-Here are the projects I'm building to demonstrate my DevOps and AWS skills. Each one is designed to solve a real-world problem and showcase specific technologies.
-
-| Project | Description | Tech Stack | Repo |
-| :--- | :--- | :--- | :--- |
-| ## 📌 Featured DevOps Projects
-
-Here are hands-on DevOps projects demonstrating CI/CD automation, Infrastructure as Code, container orchestration, and AWS deployment.
-
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| 🚀 **Node.js CI/CD Pipeline** | Built an end-to-end CI/CD pipeline using Jenkins. Automated Docker image build, safe container redeployment, and production-style deployment on AWS EC2. | `Jenkins` `Docker` `AWS EC2` `Linux` `Git` | [View Project](https://github.com/junaidtyagi9555/Jenkins-repo) |
-| 🐳 **Two-Tier Flask Application** | Designed a multi-container architecture using Docker Compose. Implemented internal networking between Flask app and MySQL database. | `Docker` `Docker Compose` `Flask` `MySQL` | [View Project](https://github.com/junaidtyagi9555/Docker-Projects)   |
-| ☸️ **Kubernetes Application Deployment** | Deployed a containerized application on Kubernetes cluster (Kubeadm/minikube/AWS). Configured Deployments, Services, ConfigMaps, and Ingress for scalable application management. | `Kubernetes` `Docker` `kubectl` `YAML` | [View Project](https://github.com/junaidtyagi9555/Kubernetes-repo) |
-| 🏗 **AWS Infrastructure using Terraform** | Provisioned AWS infrastructure using Terraform. Created VPC, subnets, EC2, security groups, and remote backend (S3 + DynamoDB) with modular configuration. | `Terraform` `AWS` `VPC` `EC2` `S3` `IAM` | [View Project](https://github.com/junaidtyagi9555/Terraform-repo) |
-
 ---
 
 ### 🔎 DevOps Capabilities Demonstrated
@@ -112,18 +107,6 @@ Here are hands-on DevOps projects demonstrating CI/CD automation, Infrastructure
 - Production-safe Redeployment Strategy
 
 *(Note: These are the exact projects from the roadmap. Link them as you build them!)*
-
----
-
-## 📚 Certifications & Learning Path
-
-<div align="center">
-
-| **Current Focus** | **Completed** | **Next Goal** |
-| :--- | :--- | :--- |
-| 🎯 **AWS Solutions Architect – Associate (SAA-C03)**<br>*(Expected: [Month, Year])* | ☁️ **AWS Cloud Practitioner** (or whatever you have)<br>*(or "In Progress")* | 🏗️ **Terraform Associate (003)**<br>☸️ **Certified Kubernetes Administrator (CKA)** |
-
-</div>
 
 ---
 
