@@ -105,7 +105,15 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ---
 
 ### 🔎 Core Competencies
-`CI/CD` `Infrastructure as Code (IaC)` `Containerization` `Orchestration` `Cloud Deployment (AWS)` `Infrastructure Automation` `Linux Administration`
+![CI/CD](https://img.shields.io/badge/Jenkins-%2523D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![Infrastructure as Code (IaC)](https://img.shields.io/badge/Terraform-%25235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Containerization](https://img.shields.io/badge/Docker-%25232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Orchestration](https://img.shields.io/badge/Kubernetes-%2523326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Cloud Deployment](https://img.shields.io/badge/AWS-%2523FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Infrastructure Automation](https://img.shields.io/badge/Bash-%25234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%2523CB171E.svg?style=flat&logo=yaml&logoColor=white)
+![Linux Administration](https://img.shields.io/badge/Ubuntu-%2523E95420.svg?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%2523FCC624.svg?style=flat&logo=linux&logoColor=black)
 
 ---
 
