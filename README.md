@@ -22,7 +22,7 @@
 I'm an IT Infrastructure Engineer transitioning into Cloud DevOps. My background gives me a unique advantage: I understand the systems that run in the cloud. I've spent the last 4+ years managing, troubleshooting, and optimizing on-premise infrastructure, and I'm now channeling that experience into building scalable, automated, and resilient cloud solutions.
 
 **My Journey:**  
-✅ **Past:** Managed 50+ servers, ensured 99.9% uptime, slashed incident response times by 30% through proactive monitoring.  
+✅ **Past:** Managed servers, ensured 99.9% uptime, slashed incident response times by 30% through proactive monitoring.  
 ✅ **Present:** Deep-diving into AWS architecture, containerization with Docker, orchestration with Kubernetes, and automation with Terraform and CI/CD.  
 ✅ **Future:** To design and implement cloud-native infrastructure that is reliable, secure, and cost-effective.
 
@@ -64,7 +64,7 @@ I'm not just learning concepts; I'm applying them by building real-world project
 - Engineered a fully automated CI/CD pipeline that reduces manual deployment effort by **100%**.
 - Automated the process of building Docker images, stopping old containers, and redeploying new ones in **under 2 minutes**.
 - Configured a production-style deployment on an AWS EC2 instance, ensuring zero-downtime during updates.
-- **[View Project](https://github.com/junaidtyagi9555/Jenkins-repo)**
+- **[View Project](https://github.com/junaidtyagi9555/jenkins-cicd-pipeline)**
 
 ---
 
@@ -76,7 +76,7 @@ I'm not just learning concepts; I'm applying them by building real-world project
 - Designed and deployed a multi-container architecture for a Flask application with a MySQL database.
 - Implemented internal networking between containers for secure and efficient communication.
 - Used Docker Compose to orchestrate the entire stack, simplifying local development and testing.
-- **[View Project](https://github.com/junaidtyagi9555/Docker-Projects)**
+- **[View Project](https://github.com/junaidtyagi9555/docker-microservices-app)**
 
 ---
 
@@ -88,7 +88,7 @@ I'm not just learning concepts; I'm applying them by building real-world project
 - Deployed a containerized application on a Kubernetes cluster, demonstrating core orchestration skills.
 - Configured Deployments for desired state management, Services for internal/external exposure, and ConfigMaps for environment-specific configuration.
 - Managed the application lifecycle using `kubectl`, showcasing the ability to scale and update applications seamlessly.
-- **[View Project](https://github.com/junaidtyagi9555/Kubernetes-repo)**
+- **[View Project](https://github.com/junaidtyagi9555/kubernetes-production-deployment)**
 
 ---
 
@@ -100,7 +100,7 @@ I'm not just learning concepts; I'm applying them by building real-world project
 - Provisioned a complete AWS environment using Infrastructure as Code (IaC) principles with Terraform.
 - Created a custom VPC with public/private subnets, internet gateway, and security groups to host EC2 instances.
 - Implemented a remote backend using S3 for state storage and DynamoDB for state locking, enabling safe team collaboration.
-- **[View Project](https://github.com/junaidtyagi9555/Terraform-repo)**
+- **[View Project](https://github.com/junaidtyagi9555/terraform-aws-infrastructure)**
 
 ---
 
