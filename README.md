@@ -34,6 +34,7 @@ I'm not just learning concepts; I'm applying them by building real-world project
 
 #### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -53,7 +54,13 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ## 📌 Featured DevOps Projects
 
 #### **Jenkins CI/CD Pipeline for Node.js Application**
-`Jenkins` `Docker` `AWS EC2` `Bash`
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - Engineered a fully automated CI/CD pipeline that reduces manual deployment effort by **100%**.
 - Automated the process of building Docker images, stopping old containers, and redeploying new ones in **under 2 minutes**.
 - Configured a production-style deployment on an AWS EC2 instance, ensuring zero-downtime during updates.
@@ -62,7 +69,10 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ---
 
 #### **Multi-Container Two-Tier Application with Docker Compose**
-`Docker` `Docker Compose` `Flask` `MySQL`
+![Docker Compose](https://img.shields.io/badge/docker%20compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - Designed and deployed a multi-container architecture for a Flask application with a MySQL database.
 - Implemented internal networking between containers for secure and efficient communication.
 - Used Docker Compose to orchestrate the entire stack, simplifying local development and testing.
@@ -71,7 +81,10 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ---
 
 #### **Scalable Application Deployment on Kubernetes**
-`Kubernetes` `kubectl` `Docker` `YAML`
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubeadm](https://img.shields.io/badge/kubeadm-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Minikube](https://img.shields.io/badge/minikube-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
 - Deployed a containerized application on a Kubernetes cluster, demonstrating core orchestration skills.
 - Configured Deployments for desired state management, Services for internal/external exposure, and ConfigMaps for environment-specific configuration.
 - Managed the application lifecycle using `kubectl`, showcasing the ability to scale and update applications seamlessly.
@@ -80,7 +93,10 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ---
 
 #### **Production-Ready AWS Infrastructure with Terraform**
-`Terraform` `AWS` `VPC` `S3` `DynamoDB`
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - Provisioned a complete AWS environment using Infrastructure as Code (IaC) principles with Terraform.
 - Created a custom VPC with public/private subnets, internet gateway, and security groups to host EC2 instances.
 - Implemented a remote backend using S3 for state storage and DynamoDB for state locking, enabling safe team collaboration.
