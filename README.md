@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidtyagi9555@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Infrastructure+as+Code+%7C+CI%2FCD+Pipelines;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;From+IT+Infra+to+Cloud+DevOps;Always+building%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Infrastructure+as+Code+%7C+CI%2FCD+Pipelines;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;From+IT+Infra+to+Cloud+DevOps;Always+building%2C+always+learning" alt="Typing SVG" />
 
 ### DevOps & Cloud Engineer with Infrastructure Background
 
