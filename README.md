@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💻 Junaid Tyagi
+# 👋 Hi, 🧑‍💻 I'm Junaid Tyagi
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://junaidtyagi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
@@ -10,7 +10,7 @@
 
 ### DevOps & Cloud Engineer with Infrastructure Background
 
-🔹 **4+ Years** in IT Infrastructure & System Administration  
+🔹 **5+ Years** in IT Infrastructure & System Administration  
 🔹 **Hands-on** with Docker, Terraform, Kubernetes & CI/CD
 
 </div>
@@ -19,29 +19,33 @@
 
 ## 🚀 About Me
 
-I'm an IT Infrastructure Engineer transitioning into Cloud DevOps. My background gives me a unique advantage: I understand the systems that run in the cloud. I've spent the last 4+ years managing, troubleshooting, and optimizing on-premise infrastructure, and I'm now channeling that experience into building scalable, automated, and resilient cloud solutions.
+I'm an IT Infrastructure Engineer transitioning into Cloud DevOps. My background gives me a unique advantage: I understand the systems that run in the cloud. I've spent the last 5+ years managing, troubleshooting, and optimizing on-premise infrastructure, and I'm now channeling that experience into building scalable, automated, and resilient cloud solutions.
 
 **My Journey:**  
 ✅ **Past:** Managed servers, ensured 99.9% uptime, slashed incident response times by 30% through proactive monitoring.  
 ✅ **Present:** Deep-diving into AWS architecture, containerization with Docker, orchestration with Kubernetes, and automation with Terraform and CI/CD.  
 ✅ **Future:** To design and implement cloud-native infrastructure that is reliable, secure, and cost-effective.
 
-I'm not just learning concepts; I'm applying them by building real-world projects (see below!). I'm now seeking a Junior DevOps or Cloud Engineer role where I can contribute, grow, and help build great things.
+I'm not just learning concepts; I'm applying them by building real-world projects (see below!). I'm now seeking a DevOps or Cloud Engineer role where I can contribute, grow, and help build great things.
 
 ## 🛠️ DevOps Technical Stack
 
 <div align="center">
 
-#### **Cloud & Infrastructure**
+#### **Cloud & Infrastructure as Code**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-#### **Scripting & Config**
+#### **Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+#### **CI/CD & Version Control**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+#### **OS, Scripting & Config**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
@@ -61,9 +65,9 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- Engineered a fully automated CI/CD pipeline that reduces manual deployment effort by **100%**.
+- Engineered a fully automated CI/CD pipeline with no manual deployment steps.
 - Automated the process of building Docker images, stopping old containers, and redeploying new ones in **under 2 minutes**.
-- Configured a production-style deployment on an AWS EC2 instance, ensuring zero-downtime during updates.
+- Configured a production-style deployment on an AWS EC2 instance, with minimal downtime during updates.
 - **[View Project](https://github.com/junaidtyagi9555/jenkins-cicd-pipeline)**
 
 ---
@@ -96,7 +100,6 @@ I'm not just learning concepts; I'm applying them by building real-world project
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - Provisioned a complete AWS environment using Infrastructure as Code (IaC) principles with Terraform.
 - Created a custom VPC with public/private subnets, internet gateway, and security groups to host EC2 instances.
 - Implemented a remote backend using S3 for state storage and DynamoDB for state locking, enabling safe team collaboration.
@@ -104,24 +107,11 @@ I'm not just learning concepts; I'm applying them by building real-world project
 
 ---
 
-### 🔎 Core Competencies
-![CI/CD](https://img.shields.io/badge/Jenkins-%2523D24939.svg?style=flat&logo=jenkins&logoColor=white)
-![Infrastructure as Code (IaC)](https://img.shields.io/badge/Terraform-%25235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Containerization](https://img.shields.io/badge/Docker-%25232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Orchestration](https://img.shields.io/badge/Kubernetes-%2523326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Cloud Deployment](https://img.shields.io/badge/AWS-%2523FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Infrastructure Automation](https://img.shields.io/badge/Bash-%25234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%2523CB171E.svg?style=flat&logo=yaml&logoColor=white)
-![Linux Administration](https://img.shields.io/badge/Ubuntu-%2523E95420.svg?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%2523FCC624.svg?style=flat&logo=linux&logoColor=black)
-
----
-
 ## 🤝 Open to Opportunities
 
-I'm actively seeking an entry-level role where I can apply my infrastructure background and growing DevOps skills. I'm a fast learner, a proactive problem-solver, and I'm ready to contribute from day one.
+I'm actively seeking a DevOps or Cloud Engineer role where I can apply my infrastructure background and growing DevOps skills. I'm a fast learner, a proactive problem-solver, and I'm ready to contribute from day one.
 
-**Target Roles:** Junior DevOps Engineer | Cloud Engineer (Entry Level) | Site Reliability Engineer (Intern/Junior) | Platform Engineer (Entry Level)
+**Target Roles:** DevOps Engineer | Cloud Engineer | Site Reliability Engineer | Platform Engineer
 
 **Open to:** Full-time, Contract, and Open-source collaboration.
 
@@ -139,13 +129,11 @@ I'm actively seeking an entry-level role where I can apply my infrastructure bac
 ### ⚡ Activity & Consistency
 
 <img src="https://streak-stats.demolab.com?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&ring=00D4AA&background=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=00D4AA&text_color=ffffff&title_color=00D4AA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=00D4AA&text_color=ffffff&title_color=00D4AA" width="49%" />
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg)
-
-[![Junaid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junaidtyagi9555&custom_title=Junaid's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff)](https://github.com/junaidtyagi9555)
+![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/snake-output/snake.svg)
 
 </div>
 
@@ -153,7 +141,7 @@ I'm actively seeking an entry-level role where I can apply my infrastructure bac
 
 <div align="center">
 
-### ⚡ "From managing servers to orchestrating containers. Let's build reliable systems."
+### 💬 "From managing servers to orchestrating containers. Let's build reliable systems."
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=junaidtyagi9555&color=00D4AA&style=flat-square&label=Profile+Views)
 
